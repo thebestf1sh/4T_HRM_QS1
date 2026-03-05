@@ -1,1 +1,2 @@
-HI3863核心板
+其他资料参考
+https://gitee.com/HiSpark/fbb_ws63
