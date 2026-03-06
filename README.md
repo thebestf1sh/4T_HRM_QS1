@@ -2,7 +2,7 @@
 
 HI3863核心板硬件资料
 
-[图片]
+<img src="%5B4%5D图片/海思HI3863核心板PNG.png" alt="海思HI3863核心板PNG.png" width="60%">
 
 
 ## 文件结构
