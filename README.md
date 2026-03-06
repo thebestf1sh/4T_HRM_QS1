@@ -32,3 +32,5 @@ HI3863核心板硬件资料
   - 交流社区：https://www.4t.wiki/community
   - 学习资源：https://www.4t.wiki/curriculum
 - Bilibili平台：参赛选手经验分享、试题解析，B站搜索“四梯科技”
+
+<img src="%5B3%5D图片/4T_B站.png" alt="4T_B站.png" width="26%"> <img src="%5B3%5D图片/4T_公众号.png" alt="4T_公众号.png" width="25%">
